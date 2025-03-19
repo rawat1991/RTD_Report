@@ -1,0 +1,3 @@
+Date,VariantName,BatchCode,TotalCase,LooseCans,EmptyRejection,EmptySample,WIPCans,FilledRejection,BreakdownRejection,ManpowerDentRejection,HighPressureRejection,WaterCanRejection,MachineDentCans,FadeCans,UnprintedCans,ScratchedCans,LidRejection,QASample,QAOtherSample,RejectShipper
+2025-03-20,Choco Latte,50787742AA,1900,10,250,950,1500,48,45,24,0,4,12,2,0,0,48,183,230,12
+2025-03-18,Caramel Latte,50777742AA,1922,22,365,1080,5235,62,24,22,0,5,11,0,0,0,27,135,180,5
